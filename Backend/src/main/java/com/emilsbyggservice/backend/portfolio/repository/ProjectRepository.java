@@ -1,4 +1,4 @@
 package com.emilsbyggservice.backend.portfolio.repository;
 
-public class ProjectRepository {
+public interface ProjectRepository {
 }

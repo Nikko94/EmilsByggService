@@ -1,4 +1,4 @@
 package com.emilsbyggservice.backend.auth;
 
-public class LoginRequest {
+public record LoginRequest() {
 }
